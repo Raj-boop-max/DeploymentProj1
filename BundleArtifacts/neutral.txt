@@ -1,0 +1,6 @@
+MainPackage=C:\Users\preen\source\repos\WindowsFormsApp1\WinUnivPackage\bin\AnyCPU\Release\WinUnivPackage_1.0.7.0_AnyCPU.msix
+SymbolPackage=C:\Users\preen\source\repos\WindowsFormsApp1\WinUnivPackage\AppPackages\WinUnivPackage_1.0.7.0_Test\WinUnivPackage_1.0.7.0_AnyCPU.appxsym
+ResourcePack=C:\Users\preen\source\repos\WindowsFormsApp1\WinUnivPackage\bin\AnyCPU\Release\WinUnivPackage_1.0.7.0_scale-100.msix
+ResourcePack=C:\Users\preen\source\repos\WindowsFormsApp1\WinUnivPackage\bin\AnyCPU\Release\WinUnivPackage_1.0.7.0_scale-125.msix
+ResourcePack=C:\Users\preen\source\repos\WindowsFormsApp1\WinUnivPackage\bin\AnyCPU\Release\WinUnivPackage_1.0.7.0_scale-150.msix
+ResourcePack=C:\Users\preen\source\repos\WindowsFormsApp1\WinUnivPackage\bin\AnyCPU\Release\WinUnivPackage_1.0.7.0_scale-400.msix
