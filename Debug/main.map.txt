@@ -1,0 +1,18 @@
+[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+"ResourceDimensions"		"language-en-US"
+
+[Files]
+"C:\Users\preen\source\repos\WindowsFormsApp1\WinUnivPackage\obj\Debug\split.pri"			"resources.pri"
+"C:\Users\preen\source\repos\WindowsFormsApp1\WinUnivPackage\obj\Debug\PackageLayout\WinMetadata\Windows.winmd"			"WinMetadata\Windows.winmd"
+"C:\Users\preen\source\repos\WindowsFormsApp1\WinUnivPackage\obj\Debug\PackageLayout\WindowsFormsApp1\WindowsFormsApp1.exe.config"			"WindowsFormsApp1\WindowsFormsApp1.exe.config"
+"C:\Users\preen\source\repos\WindowsFormsApp1\WinUnivPackage\obj\Debug\PackageLayout\WindowsFormsApp1\WindowsFormsApp1.exe"			"WindowsFormsApp1\WindowsFormsApp1.exe"
+"C:\Users\preen\source\repos\WindowsFormsApp1\WinUnivPackage\obj\Debug\PackageLayout\WindowsFormsApp1\DLLApp2.dll"			"WindowsFormsApp1\DLLApp2.dll"
+"C:\Users\preen\source\repos\WindowsFormsApp1\WinUnivPackage\obj\Debug\PackageLayout\WindowsFormsApp1\DLLApp.dll"			"WindowsFormsApp1\DLLApp.dll"
+"C:\Users\preen\source\repos\WindowsFormsApp1\WinUnivPackage\obj\Debug\PackageLayout\Images\Wide310x150Logo.scale-200.png"			"Images\Wide310x150Logo.scale-200.png"
+"C:\Users\preen\source\repos\WindowsFormsApp1\WinUnivPackage\obj\Debug\PackageLayout\Images\StoreLogo.png"			"Images\StoreLogo.png"
+"C:\Users\preen\source\repos\WindowsFormsApp1\WinUnivPackage\obj\Debug\PackageLayout\Images\Square44x44Logo.targetsize-24_altform-unplated.png"			"Images\Square44x44Logo.targetsize-24_altform-unplated.png"
+"C:\Users\preen\source\repos\WindowsFormsApp1\WinUnivPackage\obj\Debug\PackageLayout\Images\Square44x44Logo.scale-200.png"			"Images\Square44x44Logo.scale-200.png"
+"C:\Users\preen\source\repos\WindowsFormsApp1\WinUnivPackage\obj\Debug\PackageLayout\Images\Square150x150Logo.scale-200.png"			"Images\Square150x150Logo.scale-200.png"
+"C:\Users\preen\source\repos\WindowsFormsApp1\WinUnivPackage\obj\Debug\PackageLayout\Images\LockScreenLogo.scale-200.png"			"Images\LockScreenLogo.scale-200.png"
