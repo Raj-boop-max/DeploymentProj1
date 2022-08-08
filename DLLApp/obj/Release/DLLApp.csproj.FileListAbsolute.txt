@@ -1,0 +1,6 @@
+C:\Users\preen\source\repos\WindowsFormsApp1\DLLApp\bin\Release\DLLApp.dll
+C:\Users\preen\source\repos\WindowsFormsApp1\DLLApp\bin\Release\DLLApp.pdb
+C:\Users\preen\source\repos\WindowsFormsApp1\DLLApp\obj\Release\DLLApp.csprojAssemblyReference.cache
+C:\Users\preen\source\repos\WindowsFormsApp1\DLLApp\obj\Release\DLLApp.csproj.CoreCompileInputs.cache
+C:\Users\preen\source\repos\WindowsFormsApp1\DLLApp\obj\Release\DLLApp.dll
+C:\Users\preen\source\repos\WindowsFormsApp1\DLLApp\obj\Release\DLLApp.pdb
